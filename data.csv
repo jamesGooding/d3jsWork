@@ -1,77 +1,67 @@
-Store Name,Days with Data,Data Capture (%)
-Angel Sq,214,88
-Barnton,243,100
-Chester,243,100
-Chudleigh,243,100
-Faircross Parade,243,100
-Great Portland,243,100
-Manchigh,214,88
-Broughton,10,4
-Leek Road Endon,1,0
-Chudleigh,275,98
- Edinburgh Morrison St,12,4
-Abbey Wood,2,1
-Alderman Road,64,22
-Archway Highgate,2,1
-Ashton On Mersey M33 5PP,285,98
-Astley,30,100
-Barnton New,30,100
-Barnton,285,98
-Barrachnie,55,19
-Battlefield,55,19
-Bishopton BS7 8AT,285,98
-Bournemouth,8,3
-Braemar,56,19
-Braidcraft Terrace,62,21
-Brownlow Fold,146,50
-Camberwell N Rd SE5 0TJ,149,51
-Cambuslang,56,19
-Carron Village,146,50
-Carshalton SM5 3AG,285,98
-Clarkston,30,100
-Coppenhall Public Wifi,30,100
-Coppenhall,30,100
-Corporation Street,183,63
-Danderhall,57,20
-Didsbury M20 2DW,285,98
-Disley,48,16
-Halfway,64,22
-Halstead Colchester Rd,7,2
-Higham Ferrers NN10 8BL,285,98
-Holcombe Brook,145,50
-Hoole,30,100
-Ibrox Public Wifi,285,98
-Ibrox,63,22
-Kelsall New,43,15
-Kilearn,147,51
-Kingco,56,19
-Kingsway,20,7
-Kirkcaldy,4,1
-Lennoxtown New,146,50
-Littleborough,47,16
-Lymm WA13 0NU,285,98
-Macclesfield,30,100
-Maple Road,30,100
-Marsden,30,100
-Mobberley,30,100
-Moodiesburn,146,50
-Muirhead,55,19
-Musselburgh,57,20
-Newarthill,147,51
-North Ferriby HU14 3JP,290,100
-Old Baising,26,9
-Shawlands,30,100
-Silloth CA7 4BY,285,98
-Stornoway SM,30,100
-Stornoway WS,30,100
-Talke High Street,167,57
-The Bridges Latchford,49,17
-The Gables,48,16
-Thurston Road,63,22
-Tollcross,56,19
-Walker Street,42,14
-Wallacewell Road,55,19
-Warwick Bridge CA4 8SA,285,98
-Weaverham,43,15
-Wimbledon SW19 8AE,285,98
-Woodlands,17,6
+Store Name,Days with Data,Data Capture (%),Region,Size Sqft
+Angel Sq,214,88,North West and North Midlands,1700
+Abbey Wood,2,1,South East,2660
+Alderman Road,64,22,"Scotland, NI, IOM",1890
+Archway Highgate,2,1,London,3706
+Ashton On Mersey,285,98,North West and North Midlands,2939
+Astley,30,100,North West and North Midlands,1685
+Barnton,243,100,North West and North Midlands,2029
+Barnton,285,98,North West and North Midlands,2029
+Barrachnie,55,19,"Scotland, NI, IOM",7184
+Battlefield,55,19,"Scotland, NI, IOM",1302
+Bishopton,285,98,"Scotland, NI, IOM",3808
+Bournemouth,8,3,South West,2981
+Braemar,56,19,"Scotland, NI, IOM",1004
+Braidcraft Terrace,62,21,"Scotland, NI, IOM",1475
+Brownlow Fold,146,50,North West and North Midlands,2249
+Camberwell SE5 0TJ,149,51,London,2873
+Cambuslang,56,19,"Scotland, NI, IOM",2247
+Carron Village,146,50,"Scotland, NI, IOM",15785
+Carshalton SM5 3AG,285,98,South East,3993
+Chudleigh,243,100,South West,2724
+Chudleigh,275,98,South West,2724
+Clarkston,30,100,"Scotland, NI, IOM",1154
+Coppenhall,30,100,North West and North Midlands,1744
+Corporation Street,183,63,North West and North Midlands,2914
+Danderhall,57,20,"Scotland, NI, IOM",2093
+Didsbury M20 2DW,285,98,North West and North Midlands,2450
+Disley,48,16,North West and North Midlands,1868
+Faircross Parade,243,100,South East,2222
+Great Portland,243,100,South East,2275
+Halfway,64,22,"Scotland, NI, IOM",2489
+Higham Ferrers,285,98,Central and Eastern,2964
+Holcombe Brook,145,50,North West and North Midlands,2287
+Hoole,30,100,North West and North Midlands,1485
+Ibrox,63,22,"Scotland, NI, IOM",2321
+Kelsall New,43,15,North West and North Midlands,2453
+Kingco,56,19,"Scotland, NI, IOM",3885
+Kirkcaldy,4,1,"Scotland, NI, IOM",3750
+Leek Road Endon,1,0,North West and North Midlands,3000
+Lennoxtown New,146,50,"Scotland, NI, IOM",2969
+Littleborough,47,16,North West and North Midlands,8026
+Lymm,285,98,North West and North Midlands,2675
+Macclesfield,30,100,North West and North Midlands,1690
+Manc High St. M4 1QB,214,88,North West and North Midlands,2990
+Maple Road,30,100,North West and North Midlands,1638
+Marsden,30,100,North,1653
+Mobberley,30,100,North West and North Midlands,1508
+Moodiesburn,146,50,"Scotland, NI, IOM",4744
+Muirhead,55,19,"Scotland, NI, IOM",4180
+Musselburgh,57,20,"Scotland, NI, IOM",1862
+Newarthill,147,51,"Scotland, NI, IOM",2720
+North Ferriby,290,100,North,2973
+Shawlands,30,100,"Scotland, NI, IOM",7230
+Silloth,285,98,North,2980
+Stornoway SM,30,100,"Scotland, NI, IOM",17346
+Stornoway WS,30,100,"Scotland, NI, IOM",1350
+Talke High Street,167,57,North West and North Midlands,1593
+The Bridges Latchford,49,17,North West and North Midlands,2446
+The Gables,48,16,North West and North Midlands,2174
+Thurston Road,63,22,"Scotland, NI, IOM",1679
+Tollcross,56,19,"Scotland, NI, IOM",2380
+Walker Street,42,14,North West and North Midlands,1367
+Wallacewell Road,55,19,"Scotland, NI, IOM",2086
+Warwick Bridge CA4 8SA,285,98,North,2288
+Weaverham,43,15,North West and North Midlands,2770
+Wimbledon SW19 8AE,285,98,South East,2577
+Woodlands,17,6,North,2836
