@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head>
-<link rel="stylesheet" type="text/css" href="M:\\d3js\www\bootstrapCeru.min.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/jamesGooding/d3jsWork/master/ceruBootstrap">
 </head>
 <style>
 
