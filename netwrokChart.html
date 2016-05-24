@@ -1,0 +1,82 @@
+<html>
+
+<head>
+<title>Network Chart</title>
+</head>
+
+<body>
+
+<script src="interactive_network_demo/js/libs/coffee-script.js"></script>
+<script type="text/coffeescript" src="interactive_network_demo/coffee/vis.coffee">
+  Network = () ->
+  width = 960
+  height = 800
+  # ...
+  network = (selection, data) ->
+    # main implementation
+ 
+  update = () ->
+    # private function
+ 
+  network.toggleLayout = (newLayout) ->
+    # public function
+    
+   
+  return network
+  
+  
+  
+    $ ->
+  myNetwork = Network()
+  # ...
+ 
+  d3.json "data/songs.json", (json) ->
+    myNetwork("#vis", json)
+    
+  update = () ->
+  # filter data to show based on current filter settings.
+  curNodesData = filterNodes(allData.nodes)
+  curLinksData = filterLinks(allData.links, curNodesData)
+ 
+  # sort nodes based on current sort and update centers for
+  # radial layout
+  if layout == "radial"
+    artists = sortedArtists(curNodesData, curLinksData)
+    updateCenters(artists)
+ 
+  # reset nodes in force layout
+  force.nodes(curNodesData)
+ 
+  # enter / exit for nodes
+  updateNodes()
+ 
+  # always show links in force layout
+  if layout == "force"
+    force.links(curLinksData)
+    updateLinks()
+  else
+    # reset links so they do not interfere with
+    # other layouts. updateLinks() will be called when
+    # force is done animating.
+    force.links([])
+    # if present, remove them from svg
+    if link
+      link.data([]).exit().remove()
+      link = null
+ 
+  # start me up!
+  force.start()
+
+
+
+
+  
+  
+  
+</script>
+
+
+
+
+</body>
+</html>
